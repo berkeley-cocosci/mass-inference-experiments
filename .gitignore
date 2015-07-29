@@ -1,0 +1,4 @@
+*.pyc
+/experiment*/experiment.log
+/experiment*/participants.db
+/experiment*/.psiturk_history
