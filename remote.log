@@ -1,0 +1,1 @@
+0bf560b5-5620-4dce-958c-f94b7399f418 bucket=mass-inference-stimuli chunk=10MiB datacenter=US embedcreds=no encryption=none host=s3.amazonaws.com name=s3 port=80 s3creds= storageclass=STANDARD type=S3 timestamp=1461910878.64743s
